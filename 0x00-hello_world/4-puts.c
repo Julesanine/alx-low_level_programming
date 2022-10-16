@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Description: main -Entry point.
+ * Description: main -Prints entry point.
  * Return: 0 if success.
  */
 int main(void)
