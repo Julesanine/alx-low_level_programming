@@ -1,10 +1,10 @@
-#include <stdio.h>
+#include <studio.h>
 /**
- * Description: main - Prints out a string to stdout.
- * Return: 0 if success.
- */
-int main(void)
+*Description main -Entry point for program. 
+*Return: 0 if success. 
+*/
+init main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is build like a multilingual puzzle");
+	return (0)
 }
