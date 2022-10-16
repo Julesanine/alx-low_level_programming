@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints out entry point to stdout.
- * Return: 0 if success.
- */
+*main - prints out entry point to programe.
+*Return: 0 if success.
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
